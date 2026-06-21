@@ -1,5 +1,9 @@
 # RocketLog
 RocketLog is a rocket altimeter designed to fit in the estes So Long rocket and provide attitude and altitude data on the rocket logging to redundant internal flash.
+# Pictures
+![](images/schematic.png)
+![](images/pcb.png)
+![](images/3d.png)
 # Design
 [![PCB Preview]()](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2Fjacobjuneau6%2FRocketLog%2Fblob%2Fmain%2Falti%2Falti.kicad_pcb)Click the image to open the interactive KiCanvas viewer.
 # Why
